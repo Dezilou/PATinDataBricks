@@ -2,7 +2,7 @@
 ## Output Files by Provider and System for hosting on Futures
 ### NHS England South West Intelligence and Insights 
 
-The **Southwest Elective Delivery Dashboard** provides a summary of elective waiting lists and activity recovery. This script focuses on the elective aspect of the dashboard, tracking recovery progress against both planned targets and the 2023/24 baseline where applicable. It integrates the latest publicly available monthly data, broken down by week, and appends the most recent unpublished weekly data to ensure reporting is up to date with the latest available figures.
+The **JAR Reconciliation Files** provides a granular breakdown of hospital activity (TFC/HRG Level), based on national planning logic. This script runs the activity views and then outputs files, complete with three tabs (APC, OP, AE) for each provider and system.
  
 ### Scripts
  
